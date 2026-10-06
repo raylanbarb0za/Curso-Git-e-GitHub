@@ -1,2 +1,2 @@
 # Curso Git e GitHub
-repositorio versionado
+Repositorio criado e versionado em curso.
